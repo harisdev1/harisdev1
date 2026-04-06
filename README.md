@@ -71,19 +71,14 @@
 
 ## 🛠️ Languages & Tools
 
-**Row 1 — Core Stack**
-
 <p align="left">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,xcode,figma,postman&perline=10" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,figma,postman,html,css,js,tailwind,bootstrap,react,nodejs,express,mongodb,typescript,github&perline=10&theme=light" />
 </a>
 </p>
-
-**Row 2 — Platforms, DBs & More**
-
 <p align="left">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=sqlite,android,apple,kotlin,swift,supabase,docker,gcp,linux,idea&perline=10" />
+<img src="https://skillicons.dev/icons?i=sqlite,apple,kotlin,swift,supabase,docker,gcp,linux,idea,gitlab&perline=10&theme=light" />
 </a>
 </p>
 
